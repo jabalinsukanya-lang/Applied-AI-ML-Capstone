@@ -1,0 +1,29 @@
+Feature,Importance
+tenure,0.22883814799341437
+Contract,0.14418337775946313
+MonthlyCharges,0.13685664688664295
+InternetService_Fiber optic,0.06280720546761452
+PaymentMethod_Electronic check,0.05945047413313123
+OnlineSecurity_Yes,0.041337787070512395
+TechSupport_Yes,0.036524329628914935
+PaperlessBilling_Yes,0.026101926080462273
+OnlineBackup_Yes,0.021211659757157414
+gender_Male,0.020433640625851988
+Partner_Yes,0.018643478058981734
+Dependents_Yes,0.016995344204970862
+DeviceProtection_Yes,0.01632011064122983
+MultipleLines_Yes,0.01620053116662558
+SeniorCitizen,0.01499402106876317
+StreamingTV_Yes,0.01482972772642687
+StreamingMovies_Yes,0.014452781503940991
+PaymentMethod_Credit card (automatic),0.014113960331071198
+OnlineBackup_No internet service,0.014044549610929363
+PaymentMethod_Mailed check,0.011538731887372887
+InternetService_No,0.011171235402270725
+StreamingTV_No internet service,0.01105125893564437
+DeviceProtection_No internet service,0.010007900757992095
+StreamingMovies_No internet service,0.009887747117971198
+OnlineSecurity_No internet service,0.00968287403567588
+TechSupport_No internet service,0.008920247450462339
+PhoneService_Yes,0.005113814675706826
+MultipleLines_No phone service,0.004286490020798977
